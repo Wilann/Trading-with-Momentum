@@ -1,6 +1,6 @@
 # Artificial Intelligence for Trading 
 
-## Trading-with-Momentum
+## Trading with Momentum
 
 ### Source 
 
